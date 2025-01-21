@@ -172,7 +172,7 @@ const socialMediaLinks = {
 
 const skillsSection = { .... }
 
-const techStack = { .... }
+const toolStack = { .... }
 
 const workExperience = { .... }
 
