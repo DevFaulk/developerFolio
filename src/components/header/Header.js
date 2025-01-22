@@ -9,7 +9,6 @@ import {
   skillsSection,
   openSource,
   blogSection,
-  talkSection,
   resumeSection
 } from "../../portfolio";
 
